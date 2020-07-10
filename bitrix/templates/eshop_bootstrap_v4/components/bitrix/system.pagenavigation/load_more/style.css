@@ -1,0 +1,15 @@
+.load_more {
+	display: block;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    text-align: center;
+	text-decoration: none;
+	color: #000;
+}
+
+.load_more:hover {
+	text-decoration: none;
+	color: #000;
+}
